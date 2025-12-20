@@ -1,2 +1,3 @@
-# New Project
-This was created from local system
+# Python Practice Repository
+
+This repository contains basic Python programs.
